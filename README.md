@@ -1,0 +1,2 @@
+# AIML
+some practice commands 
